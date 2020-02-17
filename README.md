@@ -11,4 +11,6 @@ To get started:
 
 Then follow the on-screen instructions to set up your repo.
 
+THIS REPO CONTAINS Giahuy's profolio and SPS projects
+
 HI DID I DO THIS RIGHT
